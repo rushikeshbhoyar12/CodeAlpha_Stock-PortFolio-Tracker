@@ -1,0 +1,18 @@
+[
+    {
+        "symbol": "1",
+        "shares": 5,
+        "purchase_price": 98.0,
+        "current_price": 0.0,
+        "total_value": 0.0,
+        "gain_loss": 0.0
+    },
+    {
+        "symbol": "IBM",
+        "shares": 39,
+        "purchase_price": 400.0,
+        "current_price": 175.62,
+        "total_value": 6849.18,
+        "gain_loss": -8750.82
+    }
+]
